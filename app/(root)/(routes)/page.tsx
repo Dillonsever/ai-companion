@@ -1,6 +1,9 @@
+
+
+
 const RootPage = () => {
     return ( <div>
-        Root Page (Protected)
+
     </div> );
 }
  
